@@ -1,6 +1,6 @@
 # BetterAgencyTestProject
 
-This template should help get you started developing with Vue 3 in Vite.
+Better Agency code challenge written in Vue and started with Vue 3 in Vite template.
 
 ## Recommended IDE Setup
 
